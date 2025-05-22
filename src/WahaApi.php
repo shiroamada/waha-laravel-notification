@@ -34,9 +34,8 @@ class WahaApi
     /** @var string */
     public $debugReceiveNumber;
 
-
     /** @var string */
-    protected $action = '/messages/chat';
+    protected $action = 'sendText';
 
     /** @var string */
     protected $priority = '10';
