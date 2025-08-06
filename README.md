@@ -1,4 +1,4 @@
-# WAHA notifications channel for Laravel 5.3+
+# WAHA notifications channel for Laravel 11+
 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/shiroamada/waha-laravel-notification.svg?style=flat-square)](https://packagist.org/packages/shiroamada/waha-laravel-notification)
@@ -9,7 +9,7 @@
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/waha-laravel-notification/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/shiroamada/waha-laravel-notification/?branch=main)
 [![Total Downloads](https://img.shields.io/packagist/dt/shiroamada/waha-laravel-notification.svg?style=flat-square)](https://packagist.org/packages/shiroamada/waha-laravel-notification)
 
-This package makes it easy to send notifications using [https://waha.devlike.pro/](https://waha.devlike.pro/) with Laravel 5.3+.
+This package makes it easy to send notifications using [https://waha.devlike.pro/](https://waha.devlike.pro/) with Laravel 11+.
 
 Code Reference from laravel-notification-channels/smsc-ru
 

@@ -14,4 +14,9 @@ class WahaServiceProvider extends ServiceProvider
             return new WahaApi($config);
         });
     }
+
+    public function boot()
+    {
+        // Boot method for Laravel 11+ compatibility
+    }
 }
